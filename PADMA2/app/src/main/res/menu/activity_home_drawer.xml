@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_page"
+                android:icon="@drawable/facebook"
+                android:title="Facebook Page" />
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/mails"
+                android:title="Send Mail" />
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/email"
+                android:title="Send Message" />
+            <item
+                android:id="@+id/nav_phone"
+                android:icon="@drawable/telephone"
+                android:title="Phone Number" />
+
+            <item
+                android:id="@+id/developer"
+                android:icon="@drawable/portfolio"
+                android:title="Developer Profile"
+               />
+
+        </menu>
+    </item>
+
+</menu>

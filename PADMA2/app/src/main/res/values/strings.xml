@@ -1,0 +1,1108 @@
+<resources>
+    <string name="app_name">PADMA</string>
+    <string name="title_activity_home">PADMA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="batch">
+        <item>23th Batch</item>
+        <item>24th Batch</item>
+        <item>25th Batch</item>
+        <item>26th Batch</item>
+        <item>27th Batch</item>
+        <item>29th Batch</item>
+        <item>30th Batch</item>
+        <item>31th Batch</item>
+        <item>32th Batch</item>
+        <item>33th Batch</item>
+    </string-array>
+    <string-array name="panelsession">
+        <item>2019-2020</item>
+    </string-array>
+
+    <string-array name="batch23name">
+        <item>Al amin</item>
+        <item>Khorshed</item>
+        <item>Liton</item>
+        <item>Rofik</item>
+        <item>Bari</item>
+        <item>Jahanjir</item>
+        <item>Mili</item>
+        <item>Nahid</item>
+        <item>Rian</item>
+        <item>Sumon</item>
+        <item>Taz</item>
+        <item>Masud</item>
+        <item>Munna</item>
+        <item>Mustafiz</item>
+        <item>Sham</item>
+        <item>Aminul</item>
+        <item>Amzad</item>
+        <item>Bashar</item>
+        <item>Fultola</item>
+        <item>Hasan</item>
+        <item>Mamun(biddut )</item>
+        <item>Mamun(HUAWAI)</item>
+        <item>Mehedi</item>
+        <item>Shakil</item>
+        <item>Badshah</item>
+        <item>Delewer</item>
+        <item>Hakim</item>
+        <item>Khaled</item>
+        <item>Kushum</item>
+        <item>Mojammel</item>
+        <item>Shahin</item>
+        <item>Saju</item>
+        <item>Shima</item>
+        <item>Mamun</item>
+    </string-array>
+
+    <string-array name="batch23department">
+        <item>NO</item>
+        <item>NO</item>
+        <item>ME</item>
+        <item>CSE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>CE</item>
+    </string-array>
+
+    <string-array name="batch23number">
+        <item>01550156259</item>
+        <item>01550155135</item>
+        <item>01740649405</item>
+        <item>01557422468</item>
+        <item>01920849065</item>
+        <item>01710841232</item>
+        <item>01725737298</item>
+        <item>01715715555</item>
+        <item>01715715144</item>
+        <item>01737055535</item>
+        <item>01710315081</item>
+        <item>01718881499</item>
+        <item>01914959087</item>
+        <item>01724007134</item>
+        <item>01550156342</item>
+        <item>01717384747</item>
+        <item>01716172793</item>
+        <item>01923237981</item>
+        <item>01722465022</item>
+        <item>01712415108</item>
+        <item>01912419620</item>
+        <item>01717402759</item>
+        <item>01710220080</item>
+        <item>0179452365</item>
+        <item>0171136951</item>
+        <item>01718213406</item>
+        <item>01920330134</item>
+        <item>01924357199</item>
+        <item>01718986746</item>
+        <item>01710338008</item>
+        <item>0179168356</item>
+        <item>01717067585</item>
+        <item>01913800391</item>
+        <item>01717623655</item>
+    </string-array>
+    <string-array name="batch24name">
+        <item>Shamim</item>
+        <item>Tarek</item>
+        <item>Rashed</item>
+        <item>Shagore</item>
+        <item>Benogir</item>
+        <item>Juwel</item>
+        <item>Tonyama</item>
+        <item>Nazmul</item>
+        <item>Sathi</item>
+        <item>Tipu</item>
+        <item>Bokul</item>
+        <item>Rajibul</item>
+        <item>Rubel</item>
+        <item>Shibdas</item>
+        <item>Shohidul</item>
+        <item>Shopon</item>
+        <item>Baki</item>
+        <item>Bappi</item>
+        <item>Eqbal</item>
+        <item>Manik</item>
+        <item>Noyon</item>
+        <item>Rezwan</item>
+        <item>Shamim</item>
+        <item>Torik</item>
+
+    </string-array>
+
+    <string-array name="batch24department">
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+
+    </string-array>
+
+    <string-array name="batch24number">
+        <item>01724384262</item>
+        <item>01719897991</item>
+        <item>01719364537</item>
+        <item>01714258542</item>
+        <item>01724595295</item>
+        <item>01737436197</item>
+        <item>01671559118</item>
+        <item>01747106321</item>
+        <item>01747106321</item>
+        <item>01732993209</item>
+        <item>01717289016</item>
+        <item>01553572780</item>
+        <item>01716728131</item>
+        <item>01721714953</item>
+        <item>01722249835</item>
+        <item>01722249535</item>
+        <item>01728357100</item>
+        <item>01723995542</item>
+        <item>01716407926</item>
+        <item>01558877368</item>
+        <item>01717136893</item>
+        <item>01721517114</item>
+        <item>01716525175</item>
+        <item>01722711072</item>
+    </string-array>
+
+    <string-array name="batch25name">
+        <item>Asraful</item>
+        <item>Kishor</item>
+        <item>Mizan</item>
+        <item>Raju</item>
+        <item>Rumel</item>
+        <item>Masuma</item>
+        <item>Rasel</item>
+        <item>Sobuj</item>
+        <item>Sujon</item>
+        <item>Uzzal</item>
+        <item>Emran</item>
+        <item>Mamun</item>
+        <item>Mizan</item>
+        <item>Wahid</item>
+        <item>Durjoy</item>
+        <item>Monir</item>
+        <item>Ronok</item>
+        <item>Sohel</item>
+        <item>Md . Jannat</item>
+
+    </string-array>
+
+    <string-array name="batch25department">
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>EEE</item>
+        <item>ME</item>
+
+    </string-array>
+
+    <string-array name="batch25number">
+        <item>01737000403</item>
+        <item>01710356821</item>
+        <item>01718625794</item>
+        <item>01724666641</item>
+        <item>01718380154</item>
+        <item>01683547089</item>
+        <item>01716509669</item>
+        <item>01937804521</item>
+        <item>01710002321</item>
+        <item>01734587629</item>
+        <item>01722620683</item>
+        <item>01723334572</item>
+        <item>01726338542</item>
+        <item>01721343362</item>
+        <item>01934852685</item>
+        <item>01716742216</item>
+        <item>01718628414</item>
+        <item>01721335962</item>
+        <item>01710441281</item>
+    </string-array>
+    <string-array name="batch26name">
+        <item>Aynal</item>
+        <item>Hurayra</item>
+        <item>Jahangir</item>
+        <item>Joy</item>
+        <item>Komol</item>
+        <item>Monir</item>
+        <item>Shaon</item>
+        <item>Diba</item>
+        <item>Mamun</item>
+        <item>Mir</item>
+        <item>Shohidullah</item>
+        <item>Aminul</item>
+        <item>Arman</item>
+        <item>Dakhu</item>
+        <item>Mosharraf</item>
+        <item>Nahid</item>
+        <item>Rasel</item>
+        <item>Tanvir</item>
+        <item>Tuhin</item>
+        <item>Hasan</item>
+        <item>Morshed</item>
+        <item>Sumon</item>
+
+    </string-array>
+
+    <string-array name="batch26department">
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+
+    </string-array>
+
+    <string-array name="batch26number">
+        <item>01727943565</item>
+        <item>01728129101</item>
+        <item>01723048472</item>
+        <item>01735438179</item>
+        <item>01712739365</item>
+        <item>01736750035</item>
+        <item>01737328668</item>
+        <item>01914458514</item>
+        <item>01918074377</item>
+        <item>01737327171</item>
+        <item>01747094415</item>
+        <item>01752874147</item>
+        <item>01719475672</item>
+        <item>01723605975</item>
+        <item>01922775565</item>
+        <item>01736374124</item>
+        <item>01719364874</item>
+        <item>01737357372</item>
+        <item>01557220114</item>
+        <item>01734143153</item>
+        <item>01723090454</item>
+        <item>01723811723</item>
+
+    </string-array>
+
+    <string-array name="batch27name">
+        <item>Hasan</item>
+        <item>Emaran</item>
+        <item>Akter</item>
+        <item>Mamun</item>
+        <item>Polash</item>
+        <item>Sajjad</item>
+        <item>James</item>
+        <item>Ajaz</item>
+        <item>Tonvirul</item>
+        <item>Zamiiur</item>
+        <item>Arifujjaman</item>
+        <item>Rakibul</item>
+        <item>Asadul</item>
+        <item>Arir</item>
+        <item>Masum Reza </item>
+        <item>Abul Basar</item>
+        <item>Nazmul Hasan </item>
+        <item>Asharaful Islam</item>
+
+    </string-array>
+
+    <string-array name="batch27department">
+        <item>CE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+
+    </string-array>
+
+    <string-array name="batch27number">
+        <item>01719829101</item>
+        <item>01738306125</item>
+        <item>01711414862</item>
+        <item>01734780643</item>
+        <item>01745315887</item>
+        <item>01737356552</item>
+        <item>01760158386</item>
+        <item>01713765050</item>
+        <item>01724295060</item>
+        <item>01750789898</item>
+        <item>No</item>
+        <item>No</item>
+        <item>No</item>
+        <item>NO</item>
+        <item>01719780283</item>
+        <item>NO</item>
+        <item>NO</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="batch29name">
+        <item>Md.Mahabub Hossain</item>
+        <item>Sajib Kumar Karmoker</item>
+        <item>Md.Borhan Uddin</item>
+        <item>Molin Sarder</item>
+        <item>Md Abdul Ahad</item>
+        <item>Md.Fahinur Islam</item>
+        <item>Md.Amran Hossain </item>
+        <item>Md.Sohel Rana</item>
+        <item>Md.Ariful Islam </item>
+        <item>Md.Shafiul Islam </item>
+        <item>Md.Rajibul Hassan</item>
+        <item>Md.Muniruzzaman</item>
+        <item>Md Sharif Uddin</item>
+        <item>Md.Emdadul Haque</item>
+        <item>Md.Nannu Sardar </item>
+        <item>Md.Shafiqul Islam </item>
+        <item>Md.Golam Mostofa</item>
+        <item>Md.Safiul Islam </item>
+        <item>Md.Al Amin</item>
+        <item>Md.Sabbir Ahemed</item>
+        <item>Toha Hossain</item>
+        <item>Md.Nur E Mortuza </item>
+        <item>Md.Mursallin Hossain</item>
+        <item>Sujan</item>
+        <item>Ramjan Ali </item>
+        <item>Mst Bafia Siddeka</item>
+        <item>Md.Tohan Hossain Rased </item>
+        <item>Ranjit Kumar PK </item>
+        <item>Md.Rakibul Islam</item>
+        <item>Md.Akramul Haque</item>
+        <item>Md.Musfiqur Rahaman </item>
+        <item>Md.Abdullah Al Mamun</item>
+        <item>Most Jannatul Ferdous </item>
+        <item>Ismot Ara Lipe</item>
+        <item>Ayesha Siddika </item>
+    </string-array>
+
+    <string-array name="batch29department">
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>IP</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>ARCH</item>
+        <item>ARCH</item>
+        <item>ARCH</item>
+    </string-array>
+
+    <string-array name="batch29number">
+        <item>01764768665</item>
+        <item>01917109423</item>
+        <item>01736691518</item>
+        <item>01736691518</item>
+        <item>01747093284</item>
+        <item>01744747972</item>
+        <item>01774585981</item>
+        <item>01738307395</item>
+        <item>01755273764</item>
+        <item>01738127354</item>
+        <item>0178927924</item>
+        <item>01738069912</item>
+        <item>01764635781</item>
+        <item>01751629883</item>
+        <item>01747566863</item>
+        <item>01737388578</item>
+        <item>01748609057</item>
+        <item>01751154402</item>
+        <item>01725873893</item>
+        <item>01733656864</item>
+        <item>01740275957</item>
+        <item>01787294328</item>
+        <item>01731356676</item>
+        <item>01921129098</item>
+        <item>01741290743</item>
+        <item>01710633181</item>
+        <item>01759254363</item>
+        <item>01827069262</item>
+        <item>01822818214</item>
+        <item>01740297378</item>
+        <item>0177543776</item>
+        <item>01737215059</item>
+        <item>NO</item>
+        <item>NO</item>
+        <item>NO</item>
+    </string-array>
+
+    <string-array name="batch30name">
+        <item>Md. Sakhawat Hossain</item>
+        <item>Md Sahadat Hossain</item>
+        <item>Md Jitu PK</item>
+        <item>Md Al-Mamun</item>
+        <item>Ringku Pramanik</item>
+        <item>Md Tuhin Hasan</item>
+        <item>Md Anoar Hossain</item>
+        <item>Md. Hossain Ali</item>
+        <item>Al-Amin </item>
+        <item>Md. Nuruzzaman </item>
+        <item>Md. Anisur Rahaman</item>
+        <item>Jayed Hossen </item>
+        <item>Md. Jubayet Mirza</item>
+        <item>Bisawajit Kumar</item>
+        <item>Md. Ariful Islam Polash </item>
+        <item>Md. Ripon Saah</item>
+        <item>Sajib Ahemed</item>
+        <item>Md. Habib Ahasan </item>
+        <item>S.M Khalid Hossain </item>
+        <item>Iyasir Arafat</item>
+        <item>Abdur Rouf</item>
+        <item> Most. Mohima Tun Jannat</item>
+        <item>Sarmin Akter</item>
+    </string-array>
+
+    <string-array name="batch30department">
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>IPE</item>
+        <item>ARCH</item>
+        <item>ME</item>
+    </string-array>
+
+    <string-array name="batch30number">
+        <item>01737839590</item>
+        <item>01738711271</item>
+        <item>01741291295</item>
+        <item>01717995772</item>
+        <item>01736072271</item>
+        <item>01754007383</item>
+        <item>01739407453</item>
+        <item>01980085585</item>
+        <item>01753683753</item>
+        <item>01741550531</item>
+        <item>01742948442</item>
+        <item>01738778680</item>
+        <item>01706773005</item>
+        <item>01737777185</item>
+        <item>01721867371</item>
+        <item>01761089012</item>
+        <item>01755337343</item>
+        <item>01750412822</item>
+        <item>01770813640</item>
+        <item>01676786287</item>
+        <item>01749024215</item>
+        <item>NO</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="batch31name">
+        <item>Md.Isarul Haque </item>
+        <item>Md.Mawdud Ahamed</item>
+        <item>Md.Masudur Rahaman Shah</item>
+        <item>Md.Sumon Ahemed</item>
+        <item>Ariful Islam</item>
+        <item>Md.Injamul Haque</item>
+        <item>Md.Abdul Kader</item>
+        <item>Abdul Hakim</item>
+        <item>Abdur Rub </item>
+        <item>Md.Sohel Rana</item>
+        <item>Md.Tareq Rahaman </item>
+        <item>Md.Mominul Uddin </item>
+        <item>Md.Josim Uddin</item>
+        <item>Md.Sumon Ali</item>
+        <item>Md.Sabbir Hossain</item>
+        <item>Md.Arif Hossain</item>
+        <item>Md.Sumon Ali</item>
+        <item>Sazedur Rahaman</item>
+        <item>Alomgir Hossain</item>
+        <item>Biplob Chandra saha</item>
+        <item>Md.Rasel Hossain</item>
+        <item>Md.Juel rana </item>
+        <item>Md.Rasel Ali</item>
+        <item>Md.Juwel Uddin</item>
+    </string-array>
+
+    <string-array name="batch31department">
+        <item>EEE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>ME</item>
+        <item>IPE</item>
+        <item>CSE</item>
+        <item>CE </item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>ME</item>
+        <item>CSE</item>
+        <item>ME</item>
+        <item>CE</item>
+        <item>EEE</item>
+        <item>IPE</item>
+        <item>CSE</item>
+        <item>CE</item>
+        <item>CSE</item>
+    </string-array>
+
+    <string-array name="batch31number">
+        <item>01738756800</item>
+        <item>01751520521</item>
+        <item>01763456928</item>
+        <item>01744354901</item>
+        <item>01755273764</item>
+        <item>01756265484</item>
+        <item>01744423839</item>
+        <item>01750497441</item>
+        <item>01757936822</item>
+        <item>01764938788</item>
+        <item>01711345048</item>
+        <item>01744749198</item>
+        <item>01721334472</item>
+        <item>01750879911</item>
+        <item>01515694123</item>
+        <item>01749364851</item>
+        <item>01797927071</item>
+        <item>01744505369</item>
+        <item>01740276061</item>
+        <item>01751095471</item>
+        <item>01740446404</item>
+        <item>01741157774</item>
+        <item>01751424725</item>
+        <item>01738474611</item>
+    </string-array>
+    <string-array name="batch32name">
+        <item>Md.Touhid Hasan Emon</item>
+        <item>Md.Abu Talha Al-Imam</item>
+        <item>Md.Ibrahim Hossain</item>
+        <item>Md.Raju Ahamad</item>
+        <item>Md.Sadiqul Islam</item>
+        <item>Md.Sabbir Hossain</item>
+        <item>Md.Anwar Hossain (Emon)</item>
+        <item>Kailash Kumar Sarkar</item>
+        <item>Md.Nahid Hasan Shimul</item>
+        <item>Md.Nurul Islam </item>
+        <item>Md.Faruk Hossain </item>
+        <item>Md.Sahadot Hossain</item>
+        <item>Md.Sabbir Ahmmed</item>
+        <item>Md.Sabbir Hossain </item>
+        <item>Md.Harun-Ar-Rashid</item>
+        <item>Shaon Sarker</item>
+        <item>Aposh kumar pk</item>
+        <item>Md.Sajaul Haque Tushar</item>
+        <item>Md.Rasidul Hasan</item>
+        <item>Most.Sonia Sultana </item>
+        <item> Md.Harun Or Rashid</item>
+        <item>Md.Tazmul Haque </item>
+        <item>Md.Jahangir Alam</item>
+        <item>Ariful Islam</item>
+        <item>Md.Selim Reza</item>
+        <item>S.M.Jahabir Alamgir</item>
+        <item>Sagor Chandra Bormon</item>
+        <item>Md.Ibrahim Sardar</item>
+        <item>Md.Sariul Ekab</item>
+        <item>Md.Shamiul Haque</item>
+        <item>Md.Walid Hosen</item>
+
+    </string-array>
+
+    <string-array name="batch32department">
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>CFE</item>
+        <item>IPE</item>
+        <item>CSE</item>
+        <item>IPE</item>
+        <item>EEE</item>
+    </string-array>
+
+    <string-array name="batch32number">
+        <item>01743-650718</item>
+        <item>01707-449615</item>
+        <item>01778-460797</item>
+        <item>01735-576014</item>
+        <item>01750-598687</item>
+        <item>01762-125781</item>
+        <item>01763-249102</item>
+        <item>01728-974124</item>
+        <item>01737-904971</item>
+        <item>01759-593489</item>
+        <item>01782-434249</item>
+        <item>01760-022521</item>
+        <item>01738-243451</item>
+        <item>01750-753433</item>
+        <item>01764-277796</item>
+        <item>01750-739974</item>
+        <item>01774-546647</item>
+        <item>01763-166876</item>
+        <item>01774-228396</item>
+        <item>01820-813084</item>
+        <item>01747-484090</item>
+        <item>01762-978096</item>
+        <item>01773-350450</item>
+        <item>01755-273764</item>
+        <item>01774-273673</item>
+        <item>01768-106482</item>
+        <item>01755-338452</item>
+        <item>01753-618546</item>
+        <item>01740338715</item>
+        <item>01740599200</item>
+        <item>01758526204</item>
+
+    </string-array>
+    <string-array name="batch33name">
+        <item>Nayem Ahmed</item>
+        <item>Rafi Ahmed Hriday </item>
+        <item>Md.Sazzad Hossain</item>
+        <item>Md.Robel Hossain</item>
+        <item>Md.Arman Ali</item>
+        <item>Md.Aksarul Islam</item>
+        <item>Mst.Razia Sultana</item>
+        <item>Md.Abdur Rahman</item>
+        <item>Md.Arif Mozumdar</item>
+        <item>Md.Sumon Reja </item>
+        <item>Md.Atikur Rahman</item>
+        <item>Mst.Firoza Yeasmin Lucky </item>
+        <item>Md.Al-Amin </item>
+        <item>Md.Asadujjaman</item>
+        <item>Mostak Ahmed </item>
+        <item>Md.Taijul Islam</item>
+        <item>Asim Kumar </item>
+        <item>Md.Rokonuzzaman </item>
+        <item>Md.Rayhan Alom </item>
+        <item>Md.Kamrul Islam </item>
+        <item>Md.Abdullah</item>
+        <item>Md.Al-Momin</item>
+        <item>Mst.Mayesha Khatun</item>
+        <item>Rajjak Pramanik</item>
+        <item>M.A.Amun Haque Mamun </item>
+        <item>Chironjit Roy</item>
+        <item>Md.Raju Ahammed</item>
+        <item>Md.Ruhul Amin</item>
+        <item>Md.Shadat Hosen</item>
+    </string-array>
+
+    <string-array name="batch33department">
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>EEE</item>
+        <item>CE</item>
+        <item>CE</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>ME</item>
+        <item>CFE</item>
+        <item>CFE</item>
+        <item>CFE</item>
+        <item>CFE</item>
+    </string-array>
+
+    <string-array name="batch33number">
+        <item>01303048321</item>
+        <item>01968320481</item>
+        <item>01773058356</item>
+        <item>01732524430</item>
+        <item>01741455351</item>
+        <item>01747202637</item>
+        <item>01306995855</item>
+        <item>01521482142</item>
+        <item>01838172842</item>
+        <item>01758431422</item>
+        <item>01741316333</item>
+        <item>01706372895</item>
+        <item>01745706238</item>
+        <item>01723038255</item>
+        <item>01773122886</item>
+        <item>01777551885</item>
+        <item>01743660158</item>
+        <item>01773775366</item>
+        <item>01753474397</item>
+        <item>01750202861</item>
+        <item>01770121975</item>
+        <item>01757993876</item>
+        <item>NO</item>
+        <item>01767765236</item>
+        <item>01758164811</item>
+        <item>01762903006</item>
+        <item>01723818826</item>
+        <item>01789484463</item>
+        <item>01767099927</item>
+    </string-array>
+
+    <string-array name="padma1920membername">
+        <item>Biplob Chandra Saha</item>
+        <item>Md.Josim Uddin</item>
+        <item>jahangir Alam</item>
+        <item>Md.Ibrahim Hossain</item>
+        <item>Kailash Sarkar</item>
+        <item>Md.Arif Hossain</item>
+        <item>Shaon Sarker</item>
+        <item>Md.Juwel Uddin</item>
+        <item>Md.Nurul Islam</item>
+        <item>Rasel Hossen</item>
+        <item>Md.Tazmul Haque</item>
+        <item>Touhid Hasan Emon</item>
+        <item>Nayem Ahmed</item>
+        <item>Md.Sazzad Hossain</item>
+        <item>Mst.Sonia Sultana</item>
+
+    </string-array>
+
+    <string-array name="padma1920memberdept">
+        <item>EEE,DUET\nbiplobsaha.eee@gmail.com</item>
+        <item>CSE,DUET\njosim.duet.cse@gmail.com</item>
+        <item>ME,DUET\njahangir1450@gmail.com</item>
+        <item>CE,DUET</item>
+        <item>EEE,DUET</item>
+        <item>ME,DUET</item>
+        <item>CSE,DUET</item>
+        <item>CSE,DUET</item>
+        <item>EEE,DUET</item>
+        <item>IPE,DUET</item>
+        <item>ME,DUET</item>
+        <item>CE,DUET</item>
+        <item>CSE,DUET</item>
+        <item>CSE,DUET</item>
+        <item>CSE,DUET</item>
+
+    </string-array>
+
+    <string-array name="padma1920memberpost">
+        <item>President</item>
+        <item>Senior vice-President</item>
+        <item>General Secretary</item>
+        <item>Joint general secretary</item>
+        <item>Organizing Secretary</item>
+        <item>Finance Secretary</item>
+        <item>Co-finance Secretary</item>
+        <item>Sports Secretary</item>
+        <item>Co-sports Secretary</item>
+        <item>Library Secretary</item>
+        <item>Co-Library Secretary</item>
+        <item>Publicity Secretary</item>
+        <item>Co-Publicity Secretary</item>
+        <item>Co-reception Secretary</item>
+        <item>Women Affairs Secretary</item>
+
+    </string-array>
+
+    <string-array name="padma1920membernumber">
+        <item>01751095471</item>
+        <item>01721334472</item>
+        <item>01773350450</item>
+        <item>01794061473</item>
+        <item>01728974124</item>
+        <item>01749364851</item>
+        <item>01750739974</item>
+        <item>01738474611</item>
+        <item>01759593489</item>
+        <item>01740446404</item>
+        <item>01785493064</item>
+        <item>01743650718</item>
+        <item>01717763501</item>
+        <item>01773058356</item>
+        <item>01820813084</item>
+    </string-array>
+
+    <string-array name="coachingmembername">
+        <item>PADMA</item>
+        <item>Md.Sabbir Hossain</item>
+        <item>Md.Sadiqul Islam</item>
+        <item>Md.Touhid Hasan Emon</item>
+        <item>Md.Jahangir Alam</item>
+        <item>Md.Selim Reza</item>
+        <item>Md.Rayhan Alom</item>
+        <item>Asim Kumar</item>
+        <item>Nayem Ahmed</item>
+        <item>Md.Shazad Hossain</item>
+        <item>Md.Ruhul Amin</item>
+        <item>M.A Amun Huq Mamun</item>
+        <item>Md.Arman Ali</item>
+        <item>Md.Atikur Rahman</item>
+        <item>Mostak Ahmed</item>
+        <item>Rafi Ahmed Hriday</item>
+        <item>Md.Aksarul Islam</item>
+        <item>Md.Sumon Reja</item>
+        <item>Md.Robel Hossain</item>
+        <item>Md.Raju Ahammed</item>
+        <item>Md.Taijul Islam</item>
+        <item>Mst.Firoza Yeasmin Lucky</item>
+        <item>Mst.Razia Sultana</item>
+
+    </string-array>
+
+    <string-array name="coachingmemberpost">
+        <item>Chairman</item>
+        <item>Adviser</item>
+        <item>Director</item>
+        <item>Adviser of Student Welfare</item>
+        <item>Assistant Director</item>
+        <item>Assistant Director</item>
+        <item>Course Co-ordinator</item>
+        <item>Finance Director</item>
+        <item>Finance Director</item>
+        <item>Director of Residence</item>
+        <item>Director of Residence</item>
+        <item>Director of Exam</item>
+        <item>Director of Exam</item>
+        <item>Director of Exam</item>
+        <item>Director of Exam</item>
+        <item>Director of Exam</item>
+        <item>Director of Nursing</item>
+        <item>Director of Nursing</item>
+        <item>Director of Nursing</item>
+        <item>Director of Nursing</item>
+        <item>Director of Nursing</item>
+        <item>Director of Female Welfare</item>
+        <item>Director of Female Welfare</item>
+
+
+    </string-array>
+
+    <string-array name="coachingmemberdept">
+        <item>DUET,Gazipur</item>
+        <item>DUET,CE-3/1</item>
+        <item>DUET,CE-3/1</item>
+        <item>DUET,CE-3/1</item>
+        <item>DUET,ME-3/1</item>
+        <item>DUET,ME-3/1</item>
+        <item>DUET,ME-2/1</item>
+        <item>DUET,ME-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,CFE-2/1</item>
+        <item>DUET,ME-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,EEE-2/1</item>
+        <item>DUET,CE-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,EEE-2/1</item>
+        <item>DUET,CSE-2/1</item>
+        <item>DUET,CFE-2/1</item>
+        <item>DUET,CE-2/1</item>
+        <item>DUET,EEE-2/1</item>
+        <item>DUET,CSE-2/1</item>
+
+    </string-array>
+
+    <string-array name="coachingmembernumber">
+
+        <item>01889710002</item>
+        <item>01703069650</item>
+        <item>01750598687</item>
+        <item>01743650718</item>
+        <item>01773350450</item>
+        <item>01774273673</item>
+        <item>01753474397</item>
+        <item>01743660158</item>
+        <item>01717763501</item>
+        <item>01773058356</item>
+        <item>01789484463</item>
+        <item>01758164811</item>
+        <item>01741455351</item>
+        <item>01741316333</item>
+        <item>01773122886</item>
+        <item>01968320481</item>
+        <item>01747202637</item>
+        <item>01758431422</item>
+        <item>01732524430</item>
+        <item>01723818826</item>
+        <item>01777551885</item>
+        <item>NO</item>
+        <item>NO</item>
+
+    </string-array>
+
+    <string name="NahidulHaque">
+        Aasalamualaikum. welcome to our non political and beloved  association named "padma welfare association of DUET".This association works for it is members good, like admissions, coaching, book support, personal problems also. So I invite all DUET students to join here, or wish for it is successful journey. I feel proud to serve this association.I apply to all executive of padma make a target every year so that we can help from our side. I also want to thanks all padma members for their achievements that they have done. Now they are going to do a best job. I wishes them for it is every success. So come forward and think boundless for mankind.\n\n
+    </string>
+
+    <string name="sumon">
+        ডুয়েট আঙিনায়  ভর্তি কোচিং সমূহের মধ্যে বর্তমানে কনফিডেন্ট কোচিং সেন্টার অন্যতম। ভাবলে অনেক ভালো লাগে,  পুলকিত হয়, আবেগে  আপ্লুত হই বারবার। আমরা কনফিডেন্ট কোচিং সেন্টার এর কার্যক্রম শুরু করেছিলাম 2009 সালে। অনেকটা সময় অতিবাহিত হয়েছে। এর সুফল পেতে শুরু করেছে রাজশাহী অঞ্চলের ডুয়েট ভর্তিচ্ছুশিক্ষার্থীরা। কোচিং আজ সু প্রতিষ্ঠিত ভাবতে খুব ভাল লাগে তবে কোচিং শুরুর অভিজ্ঞতা  খুব একটা সুখের ছিল না । কোচিং প্রতিষ্ঠায়  মিশে আছে অনেকের ত্যাগ, অক্লান্ত পরিশ্রম ও অদমনীয় প্রচেষ্টা। রাজশাহী অঞ্চলের ছাত্র-ছাত্রীদের জন্য ডুয়েট ভর্তির কোন আঞ্চলিক কোচিং ছিল না। এই অঞ্চলের ভর্তিচ্ছু শিক্ষার্থীরা অন্যান্য আঞ্চলিক কোচিং এ ভর্তি হত। ফলে ভর্তি প্রস্তুতির ক্ষেত্রে যথাযথ দিকনির্দেশনা সে সময় তারা পেত না। আবাসনের ক্ষেত্রেও নিজেদের ব্যবস্থা করে থাকতে হতো। এছাড়া যে কোনো অনাকাঙ্ক্ষিত পরিস্থিতিতেও তারা অসহায় বোধ করত। আমাদের কোন আঞ্চলিক কোচিং না থাকার ফলে সিনিয়র ভাইদের সাথে খুব একটা পরিচয় ঘটতো না। ফলে  ভর্তির দিকনির্দেশনা আমরা থাকতামপিছিয়ে।বিধায় সে সময় আমাদের একটা কিছু করা খুবই জরুরি হয়ে পড়ে। ফলশ্রুতিতে পদ্মার সকল সদস্যের সম্মতিক্রমে ও সহযোগিতায় আমরা কনফিডেন্স কোচিং সেন্টার চালু করেছিলাম। কনফিডেন্স কোচিং সেন্টার আজ অনেকটা পথ পাড়ি দিয়ে সফলতার সাথে  এগিয়ে যাচ্ছে । ক্ষুদ্র পরিসরে  যে কোচিং  শুরু করেছিলাম তা আজ বৃহদাকার  ধারণ করেছে। কনফিডেন্স কোচিং সেন্টারের প্রতিষ্ঠাতা পরিচালক হিসেবে আমি কোচিং এর সুনাম বৃদ্ধি সহ, উত্তর উত্তর সমৃদ্ধি,  উন্নতি ও সফলতা কামনা করছি।\n\n
+
+    </string>
+
+    <string name="jasim">
+        PADMA(Rajshahi student welfare association, DUET) is a good association of DUET.The Padma is a not only Rajshahi student helpline association but also helping the admitted  student. The admission coaching center controlled by Padma. Padma association create by the Rajshahi and the nearest district. Padma no of student 100+ . All present member communication is good by enjoying the sports, exam annual tour, meeting, party.I also help the association within a digitalized. Many x students help us anyway.I hope this association developed day by day improves.\n\n
+    </string>
+
+    <string name="biplob">
+        Padma is a welfare association of the students of DUET which works for the wellbeing of student members.The organization has some responsibilities such as admission care for whom dream of DUET as well as coaching facility for them. The undergrad students have a support for books and materials along with mentoring for personal problem solving and so on. All that matters to the unity is to build a bridge for combining the chemistry of relations between seniors and juniors through different events. In each year,on behalf of the organization, we arrange tours to energize the new faces in DUET campus. We plan programs to have nice get-together what makes environments for networking. That is how the river like organization “Padma” gives water to the dreams and the relationships as it has been giving. I wish all the best for the organization to serve pupils in the long run.\n\n
+
+    </string>
+
+    <string name="habib">
+        Padma is the birthplace of the life of education city Rajshahi, with a huge spread like the Padma River. Where as the Rajshahi name has been given to the flag of Bangladesh,the organization, which has been working diligently and hard work to establish DUET students and Diploma engineers as B.Sc engineers.This organization is a gathering for the fraternity and development of all students and carers of Greater Rajshahi. Whose mother teaches everyone to move in unison.\n\n
+
+    </string>
+
+    <string name="tareq">
+        Aasalamualaikum, Welcome to our non political and beloved association named "Padma” Rajshahi students welfare association of DUET.This association works for it is members good, like as admissions, coaching,book support, personal problems also. So I invite all rajshahi DUETian to join here, Be cause, Unity is a key to success for any team. If we have to work with other people, then it becomes quite important to cooperate with them because every person has a different thinking and a different view towards every situation. However,it is a bit difficult to live with unity with different people.There are many examples in this world where unity is maintained and where unity is endangered.I also want to thanks all padma members for their achievements that they have done. Now they are going to do a best job.I wishes them for it is every success.\n\n
+
+    </string>
+</resources>
